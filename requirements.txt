@@ -1,0 +1,6 @@
+Flask==2.3.3
+feedparser==6.0.10
+requests==2.31.0
+transformers[sentencepiece] 
+torch
+apscheduler==3.10.4
